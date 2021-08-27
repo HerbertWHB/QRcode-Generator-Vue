@@ -1,0 +1,105 @@
+@import './index.scss';
+/*------------------reset css -------------------*/
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+ul,ol,li {
+  list-style: none
+}
+i.strong,em,b,u {
+  font-weight: normal;
+  font-style: normal;
+}
+input[type="text"],
+textarea {
+  appearance: none;
+	font-family: "微软雅黑";
+}
+a{
+  text-decoration: none;
+  color : black; 
+  -webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+  user-select: none;
+}
+img {
+  width: 100%;
+}
+
+/*-------------------------公共样式--------------------------*/
+html,body,#app,.page-view {
+  width: 100%;
+	height: 100%;
+	-webkit-tap-highlight-color: transparent; // 当用户轻按一个链接或者JavaScript可点击元素时给元素覆盖一个高亮色
+	-webkit-touch-callout: none; // 禁用系统默认菜单
+	user-select: none; // 禁用选择
+	background-color: #ffffff;
+	font-size: .16rem;
+	color:#333;
+	font-family: "KaiTi";
+}
+/* 滚动组件基本样式 */
+.scroll {
+	position: fixed;
+	width: 100%;
+	top:0;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+}
+.scroll-top {
+	top: .44rem
+}
+.scroll-bottom {
+	bottom: .48rem
+}
+.icon-jiantouarrowhead7 {
+	font-size: 0.18rem !important;
+}
+// 子页面定位样式
+.sub-page {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  background: #f8f8f8;
+}
+// 左浮动
+.fl {
+	float: left!important;
+}
+// 右浮动
+.fr {
+	float: right!important;
+}
+.mint-tab-item-label {
+	font-size: 0.16rem !important;
+}
+.el-table__header {
+	width: 100% !important;
+}
+/*清除浮动*/
+.clearfix {
+  *zoom: 1
+}
+.clearfix:after {
+  content: '.';
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+[v-cloak] {
+	visibility: hidden;
+}
+[hidden] {
+	display: none;
+}
