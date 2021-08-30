@@ -75,28 +75,42 @@ Located in branch master
 
 <h5 align = "center">Figure 1-1</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830202727635.png" alt="image-20210830202727635" style="zoom:50%;" />
+<div align=center>
 
+<img src=".\typora-user-images\image-20210830202727635.png" alt="image-20210830202727635" style="zoom:50%;" />
+
+</div>
+ 
 ##### 
 
 ##### Figure 1-2 and Figure 1-3 shows the QRcode generation interface of text and web.
 
 <h5 align = "center">Figure 1-2</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830203046619.png" alt="image-20210830203046619" style="zoom:50%;" />
+<div align=center>
 
- <h5 align = "center">Figure 1-3</h5>
+<img src=".\typora-user-images\image-20210830203046619.png" alt="image-20210830203046619" style="zoom:50%;" />
+ 
+</div>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830203518391.png" alt="image-20210830203518391" style="zoom:50%;" />
+<h5 align = "center">Figure 1-3</h5>
+
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830203518391.png" alt="image-20210830203518391" style="zoom:50%;" />
+ 
+</div>
 
 ##### Figure 1-4 shows the basic output of the QRcode generation
 
 
 <h5 align = "center">Figure 1-4</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830203634142.png" alt="image-20210830203634142" style="zoom:50%;" />
+<div align=center>
 
+<img src=".\typora-user-images\image-20210830203634142.png" alt="image-20210830203634142" style="zoom:50%;" />
 
+</div>
 
 #### 2.Custom QR code
 
@@ -104,37 +118,61 @@ Located in branch master
 
 <h5 align = "center">Figure 2-1</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830204032788.png" alt="image-20210830204032788" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830204032788.png" alt="image-20210830204032788" style="zoom:50%;" />
+ 
+</div>
 
 <h5 align = "center">Figure 2-2</h5> 
 
- <div align=center>
+<div align=center>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830204335603.png" alt="image-20210830204335603" style="zoom:50%;" />
+<img src=".\typora-user-images\image-20210830204335603.png" alt="image-20210830204335603" style="zoom:50%;" />
 
 </div>
 
 <h5 align = "center">Figure 2-3</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830204626266.png" alt="image-20210830204626266" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830204626266.png" alt="image-20210830204626266" style="zoom:50%;" />
+ 
+</div>
 
 <h5 align = "center">Figure 2-4</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830204913364.png" alt="image-20210830204913364" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830204913364.png" alt="image-20210830204913364" style="zoom:50%;" />
+ 
+</div>
 
 ##### Figure 2-2 to Figure 2-7 shows the use of custom templates, embedded content in qr codes, and custom code eyes
 
 <h5 align = "center">Figure 2-5</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830205836701.png" alt="image-20210830205836701" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830205836701.png" alt="image-20210830205836701" style="zoom:50%;" />
+ 
+</div>
 
 <h5 align = "center">Figure 2-6</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830205811627.png" alt="image-20210830205811627" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830205811627.png" alt="image-20210830205811627" style="zoom:50%;" />
+ 
+</div>
 
 <h5 align = "center">Figure 2-7</h5>
 
-<img src="C:\Users\86178\AppData\Roaming\Typora\typora-user-images\image-20210830205734308.png" alt="image-20210830205734308" style="zoom:50%;" />
+<div align=center>
+
+<img src=".\typora-user-images\image-20210830205734308.png" alt="image-20210830205734308" style="zoom:50%;" />
+
+</div>
 
 
 
