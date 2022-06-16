@@ -1,0 +1,59 @@
+// //常用内间距
+// pd-lr-15()
+//   padding-left: .15rem;
+//   padding-right: .15rem;
+// // 不换行
+// no-wrap()
+//   text-overflow ellipsis
+//   overflow hidden
+//   white-space nowrap
+// // flex 居中
+// dis-flex()
+//   display flex
+//   align-items center
+//   justify-content center
+// // flex-between
+// bet-flex()
+//   display flex
+//   flex-direction row
+//   align-items center
+//   justify-content space-between
+// //背景图
+// bg-img($url)
+//   background-image url($url)
+//   background-repeat no-repeat
+// //顶部边框1px
+// border-1px()
+//   width 100%;
+//   height 1px;
+//   background #ddd;
+//   transform scaleY(0.5);
+// // 通用按钮
+// base-button()
+//   display block
+//   width 1.8rem
+//   height 0.4rem
+//   line-height: 0.4rem
+//   margin 0 auto
+//   border-radius 0.2rem
+//   color #ffffff
+//   font-size $font-size-l
+//   background linear-gradient(left,#24aaf9,#3682f1)
+//   outline none
+//   border none
+//   cursor pointer
+//   box-shadow 0.01rem 0.01rem 0.1rem 0.01rem blue
+// // 扩展点击区域
+// extend-click()
+//   position relative
+//   &:after
+//     content ''
+//     position absolute
+//     top -5px
+//     left -5px
+//     right -5px
+//     bottom -5px
+// // 图标 阴影
+// box-sha(color)
+//    box-shadow 0 0 0.15rem color
+//    background-color color
